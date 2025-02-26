@@ -1,1 +1,2 @@
 # DungeonAlchemist_translate
+基于Xunity的汉化文件
